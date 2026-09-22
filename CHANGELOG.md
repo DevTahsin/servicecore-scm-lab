@@ -2,3 +2,4 @@
 - oturum zaman aşımı
 - doğrulama
 - readme
+- yanlis anahtar
