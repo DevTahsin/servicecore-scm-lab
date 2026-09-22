@@ -4,3 +4,4 @@
 - readme
 - yanlis anahtar
 - surum 1.0.0 hazirligi
+- login duzeltmesi
