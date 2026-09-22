@@ -1,2 +1,3 @@
 - giriş formu iskeleti
 - oturum zaman aşımı
+- doğrulama
