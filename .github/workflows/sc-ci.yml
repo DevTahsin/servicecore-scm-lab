@@ -1,0 +1,9 @@
+name: SC CI
+on:
+  push:
+    branches: [ 'release/**' ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "ServiceCore SCM lab build"; sleep 15
